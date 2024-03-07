@@ -1,9 +1,9 @@
 # Cyber Security Training
 
 
-# whatdo you want to learn in cyber security?
+# what do you want to learn in cyber security?
 1. AI Sec
 2. The Basics
-3. 
+3. Red Team Stuff 
 4. Infiltrate Systems
 
