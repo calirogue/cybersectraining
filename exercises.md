@@ -18,3 +18,4 @@
 2. The Basics
 3. Red Team Stuff 
 4. Infiltrate Systems
+blue team stuff
