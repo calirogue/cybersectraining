@@ -1,9 +1,12 @@
 # Cyber Security Training
 
+## How this works:
+- when you first get to this repo, go to "exercises" and follow the instructions to get familiar with github
+- After you do a basic github exercise then going forward whenever you add more notes to this document, you create a new branch and start taking notes. When you're done, you'll do:
+1. ```"git status"```
+2. ```"git add ."```
+3. ```git commit -m "type a message here on what you worked on"```
+4. ```git push origin branch-name-that-you-created```
 
-# what do you want to learn in cyber security?
-1. AI Sec
-2. The Basics
-3. Red Team Stuff 
-4. Infiltrate Systems
-
+### The purpose:
+- The purpose is to get familiar with working as a team and familiar with github. We all will learn together and teach each other new techniques. Help each other out. 
