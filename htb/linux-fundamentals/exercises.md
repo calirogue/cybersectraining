@@ -1,6 +1,6 @@
 # Please provide the command that helped you find the anwser
 
-## System inforamtion:
+## System information:
 1. The last answer for kernel version:
 - uname -r
 
