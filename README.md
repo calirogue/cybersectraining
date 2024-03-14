@@ -1,5 +1,12 @@
 # Cyber Security Training
 
+## Rules:
+1. Be open minded
+2. Share something cool that you found
+3. Take notes on this github repo
+4. Think outside the box
+5. Mindset: ready to learn
+
 ## How this works:
 - when you first get to this repo, go to "exercises" and follow the instructions to get familiar with github
 - After you do a basic github exercise then going forward whenever you add more notes to this document, you create a new branch and start taking notes. When you're done, you'll do:
